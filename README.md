@@ -1,4 +1,4 @@
-# Sina Asghari Portfolio Repository
+# Sina Asghari's portfolio Repository
 
 Welcome to my portfolio repository! Here, you will find a collection of my work in the fields of data analysis and dashboard design, specifically focusing on:
 
