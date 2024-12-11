@@ -1,6 +1,7 @@
 # Employee Interviews Dashboard
 
 This dashboard provides an analytical report of the results from employee interviews conducted at a company. Employees from various positions participated in these interviews, which were conducted over two sessions by different interviewers on specific dates.
+Check out my [Power BI Dashboard Project](https://github.com/your-username/powerbi-dashboard) for detailed insights into employee performance.
 
 ## Topics Covered
 Each interview focused on specific topics such as:
