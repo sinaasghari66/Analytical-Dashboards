@@ -20,26 +20,7 @@ To use this repository, you need to have Power BI Desktop installed. You can dow
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/powerbi-dashboards.git
-
-
-## Highlights of My Work
-
-### Power BI Dashboards
-- Created comprehensive dashboards that provide key business insights.
-- Implemented complex DAX calculations to enhance data analysis and reporting.
-
-### SSIS Projects
-- Developed ETL processes to automate data extraction, transformation, and loading, improving data accuracy and consistency.
-- Integrated data from multiple sources, including databases, flat files, and APIs.
-
-### SSAS Projects
-- Designed tabular models to support high-performance analytics.
-- Deployed SSAS solutions to provide end-users with fast and reliable access to analytical data.
-
-### Data Warehousing
-- Architected and implemented data warehouses to support business intelligence and reporting needs.
-- Ensured data quality and integrity through robust data modeling and ETL processes.
+   git clone https://github.com/sinaasghari66/Analytical-Dashboards.git
 
 ## Contact
 
