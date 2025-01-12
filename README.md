@@ -1,11 +1,6 @@
-# Sina Asghari's portfolio Repository
+# Sina Asghari's Power BI Dashboards
 
-Welcome to my portfolio repository! Here, you will find a collection of my work in the fields of data analysis and dashboard design, specifically focusing on:
-
-- **Power BI Dashboards**: Designing interactive and insightful dashboards using Power BI to visualize data and derive actionable insights.
-- **SQL Server Integration Services (SSIS)**: Implementing data integration and ETL (Extract, Transform, Load) processes to consolidate data from various sources.
-- **SQL Server Analysis Services (SSAS)**: Creating analytical models, including multidimensional and tabular models, to support complex data analysis.
-- **Data Warehousing**: Designing and implementing data warehouses to ensure efficient storage and retrieval of large datasets.
+This repository contains a collection of interactive and insightful Business Intelligence (BI) dashboards developed in Power BI, aimed at providing accurate information and efficient analysis to improve organizational decision-making by visualizing data and deriving actionable insights.
 
 ## Highlights of My Work
 
