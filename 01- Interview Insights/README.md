@@ -1,4 +1,4 @@
-# Employee Interviews Dashboard
+# Interview Insights Dashboard
 
 This dashboard provides an analytical report of the results from employee interviews conducted at a company. Employees from various positions participated in these interviews, which were conducted over two sessions by different interviewers on specific dates.
 
