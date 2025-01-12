@@ -4,40 +4,22 @@ This is an analytical dashboard of a company's sales data for the first five mon
 
 You can access the interactive version without needing to install Power BI via this [link](https://app.powerbi.com/view?r=eyJrIjoiMmZlNzQ3ZTQtN2FjMi00NmE1LThiZjgtMWJlZTI2ZWJjOTkyIiwidCI6IjQ0ODI2YzYyLTA3MWEtNDY0YS05ZjA2LTk5ZmFlN2IwZDY2ZiIsImMiOjEwfQ%3D%3D).
 
-## Topics Covered
-Each interview focused on specific topics such as:
-- Working hours
-- Productivity
-- Safety
-- And more
+## Data Model
 
-## Categories of Results
-The results of each interview are categorized as:
-- Happy
-- Indifferent
-- Unhappy
+The source file was an Excel file, and the final data model was transformed into a star schema using Power Query capabilities.
 
-## Analyses Presented
-The analyses are presented based on:
-- Interview topics
-- Employees
-- Interviewers
+## Analysis
 
-## Key Performance Indicators (KPIs)
-The following KPIs have been created:
-- Employee Satisfaction
-- Employee Indifference
-- Employee Unhappiness
+The analyses are divided into four main categories:
+1. **Geographical Analysis**
+2. **Sales Teams Analysis**
+3. **Products Analysis**
+4. **Stores Analysis**
+5. **Sales Channels Analysis**
 
-### KPI Scoring
-These KPIs display a numerical score between 10 and -10:
-- If the score in the second interview is **≤ -6**, the result is **Low**.
-- If the score is **between -5 and 4.5**, the result is **Moderate**.
-- If the score is **≥ 5**, the result is **High**.
+## UI Design
 
-## Color Coding
-The results are displayed using color coding:
-- **Green**: High Employee Satisfaction Index
-- **Red**: High Employee Unhappiness Index
+The user interface and all buttons were designed in Figma. Additionally, to optimize the use of screen space, the dashboard menu is designed in an accordion style.
 
+پ
 Feel free to explore the dashboard and gain insights from the data.
