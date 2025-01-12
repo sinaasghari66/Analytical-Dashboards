@@ -21,5 +21,5 @@ The analyses are divided into four main categories:
 
 The user interface and all buttons were designed in Figma. Additionally, to optimize the use of screen space, the dashboard menu is designed in an accordion style.
 
-پ
+
 Feel free to explore the dashboard and gain insights from the data.
